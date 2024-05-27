@@ -3,17 +3,17 @@ table, th, td{
     border: solid 1px black;
     border-collapse: collapse;
     padding: 10px;
-
+    width: auto;
 }
 th{
     background-color: #f04200;
     font-size: 25px;
-    width: 200px; height: 100px;
+    height: 100px;
 }
 caption{
     background-color: #ff321a;
     color: white;
-    font-size: 80px;
+    font-size: 50px;
     font-family: "Cambria";
 }
 td{
