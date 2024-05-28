@@ -1,13 +1,61 @@
 @charset "utf-8";
-body{
-    background-color: #E0FFFF;
-    font-size: 17px;
+.txit-IndianRed{
+    color: 	IndianRed;
 }
-h1{
-    background-color: gold;
-    color: DarkOrange;
+.bg-Gold{
+    background-color: Gold;
 }
-h2{
+.txit-Chocolate{
+    color: 	Chocolate;
+}
+.txit-Maroon{
+    color: Maroon;
+}
+.bg-LightPink{
     background-color: LightPink;
-    color: 	Violet;
+}
+.txit-MediumVioletRed{
+    color: MediumVioletRed;
+}
+.txit-DarkRed{
+    color: DarkRed;
+}
+.txit-Teal{
+    color: Teal;
+}
+.txit-RoyalBlue{
+    color: RoyalBlue;
+}
+.txit-SteelBlue{
+    color: SteelBlue;
+}
+.txit-DarkBlue{
+    color: DarkBlue;
+}
+.txit-DarkViolet{
+    color: DarkViolet;
+}
+.bg-Plum{
+    background-color: Plum;
+}
+.bg-PaleTurquoise{
+    background-color: PaleTurquoise;
+}
+.bg-White{
+    background-color: White;
+}
+.txit-LightSkyBlue{
+    color: LightSkyBlue;
+}
+.txit-MediumSeaGreen{
+    color: MediumSeaGreen;
+}
+.bg-PaleGreen{
+    background-color: PaleGreen;
+}
+body{
+    background-color: Cornsilk;
+}
+p{
+    font-size: 23px;
 }
