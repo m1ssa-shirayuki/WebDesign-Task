@@ -1,0 +1,31 @@
+@charset "utf-8";
+th,td{
+    font-size: 12px;
+}
+th{
+    text-align: left;
+    color: white;
+    background-color: DimGray;
+    vertical-align: top;
+}
+td{
+    background-color: Silver;
+}
+table th, td{
+    padding: 10px;
+}
+span{
+    font-size: 7px;
+    vertical-align: middle;
+}
+.hissu{
+    background-color: red;
+    font-size: 7px;
+    border-radius: 3px;
+}
+.iken{
+    vertical-align: top;
+}
+input[type]{
+    vertical-align: middle;
+}
