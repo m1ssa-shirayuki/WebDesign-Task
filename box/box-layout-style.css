@@ -43,6 +43,7 @@ a{
 }
 body{
     background-color: azure;
+    min-width: 1200px;
 }
 p{
     color: black;
