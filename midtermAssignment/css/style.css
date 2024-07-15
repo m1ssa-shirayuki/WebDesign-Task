@@ -1,0 +1,44 @@
+@charset "utf-8";
+header{
+    width: 100%;
+}
+header ul{
+    display: flex;
+    list-style: none;
+    padding: 0px;
+}
+header ul li{
+    width: 20%;
+    text-align: center;
+}
+header ul li a{
+    display: block;
+    padding: 0.5rem;
+    color: 	rgb(234, 246, 255);
+    text-decoration: none;
+    font-weight: bold;
+}
+body{
+    min-width: 1000px;
+}
+header ul li + li{
+    border-left: 2px solid rgb(246, 248, 255);
+}
+.breadcrumbs{
+    list-style: none;
+    display: flex;
+}
+.breadcrumbs li::after{
+    content: ">";
+    padding: 0 0.5rem;
+}
+.breadcrumbs li:last-child::after{
+    content: "";
+}
+
+.breadcrumbs li a:hover{
+    text-decoration: none;
+}
+ol a{
+    color: #ba1c5a;
+}

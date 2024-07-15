@@ -1,0 +1,45 @@
+/*記述済みの部分は変更しないでください！*/
+
+@charset "utf-8";
+
+.mark-list {
+    list-style: "★";
+}
+
+img{
+    width: 15%;
+    height: 10%;
+}
+
+header{
+    background-image: url(../introduction/introduction-img/introduction.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0 auto;
+    padding: 0.5rem;
+}
+h1{
+    width: 30%;
+    height: 10%;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10%;
+    margin-bottom: 10px;
+    border-radius: 30px;
+    border-color: rgb(62, 23, 202);
+    background-color: rgb(194, 178, 244);
+    border-style: solid;
+    border-width: 5px;
+    margin-top: 1%;
+}
+body{
+    background-image: url(../introduction/introduction-img/introduction2.jpg);
+    background-color:rgba(255,255,255,0.8);
+    background-blend-mode:lighten;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0 auto;
+    padding-bottom: 5%;
+}
